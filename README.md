@@ -90,19 +90,23 @@ npm start
 
 4️⃣ Build for production
 npm run build
+```
 
-
-🐛 Known Issues & Fixes
+## 🐛 Known Issues & Fixes
 Delete not working: Fixed by assigning unique string IDs (nanoid) to all tasks, including those loaded from localStorage.
 
-📸 Screenshots
-Calendar View with Task Dots
-![alt text](image.png)
-Add/Edit Task Modal
-![alt text](image-1.png)
-Chart & Filters
-![alt text](image-2.png)
-👨‍💻 Author
+## 📸 Screenshots
+### Calendar View with Task Dots
+![Calendar View](public/image.png)
+
+### Add/Edit Task Modal
+![Add/Edit Modal](public/image-1.png)
+
+## Chart & Filters
+![Chart & Filters](public/image-2.png)
+
+---
+## 👨‍💻 Author
 Raghu Sharma
 
 Email: raghusharma70876@gmail.com
