@@ -6,7 +6,7 @@ Users can add, view, edit, delete, and categorize tasks on a calendar interface 
 ---
 
 ## 🚀 Live Demo
-[Click here to view the live app](https://task-calendar-dashboard-ooyqrdpwl-raghus-projects-1dccba79.vercel.app/)  
+[Click here to view the live app](https://task-calendar-dashboard-efxpzoutq-raghus-projects-1dccba79.vercel.app/)  
 
 ---
 
