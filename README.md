@@ -106,6 +106,16 @@ Delete not working: Fixed by assigning unique string IDs (nanoid) to all tasks, 
 ![Chart & Filters](public/image-2.png)
 
 ---
+
+## 🔮 Future Improvements
+While the app meets all current requirements, here are some ideas for enhancing it further:
+- **Task Search & Sorting** – Allow users to quickly search or sort tasks by title, category, or date.
+- **Dark Mode Support** – Add a toggle for light/dark themes for better accessibility.
+- **Recurring Tasks** – Option to repeat tasks daily, weekly, or monthly.
+- **Export/Import Tasks** – Let users download their tasks as JSON or CSV, and import them later.
+- **Backend Integration** – Connect to a database (e.g., Firebase, MongoDB) for multi-device sync.
+
+
 ## 👨‍💻 Author
 Raghu Sharma
 
